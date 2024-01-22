@@ -13,6 +13,13 @@ body {
     background-color: rgba(197,28,56,0.7); /* Red background with 50% transparency */
  
 }
+.tagline {
+
+    color: 	#E0E0E0;
+
+
+
+}
 
 
 .location{
@@ -33,11 +40,11 @@ body {
 
 .org-post-title{
     color: rgba(197,28,56,1);
-    font-size: 50px;
+    font-size: 45px;
     font-weight: bolder;
 }
 .org-post-description{
-    font-size: 15px;
+    font-size: 18px;
 }
 
 .course-collge{
